@@ -1,0 +1,9 @@
+streamlit
+streamlit_option_menu
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+missingno
+warnings
