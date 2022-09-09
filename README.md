@@ -6,13 +6,13 @@
 
 I have created an Machine Learning Webapp for Detection of Diseases!
 
-It has three different disease data and three different models for each disease:
+It has three different disease data and three different models for each disease, To know more about these:
 
-1) Diabetes
+1) *[Diabetes](https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444)*
 
-2) Heart Disease
+2) *[Heart Disease](https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118#:~:text=CAD%20happens%20when%20coronary%20arteries,or%20even%20a%20heart%20attack.)*
 
-3) Parkinson
+3) *[Parkinson](https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/symptoms-causes/syc-20376055)*
 
 I have used [Streamlit](https://docs.streamlit.io/) library for WEB UI and [Heroku](https://www.heroku.com/) for Deployment.
 
