@@ -1,6 +1,6 @@
 # Live-Multiple_Disease_Detection
 
-***[Multiple-Disease-Detection]()* WebApp for use is now Live!** 
+***[Multiple-Disease-Detection](http://ml-multiple-disease-detection.herokuapp.com/)* WebApp for use is now Live!** 
 
 # About
 
@@ -14,7 +14,7 @@ It has three different disease data and three different models for each disease:
 
 3) Parkinson
 
-I have used [Streamlit]() library for WEB UI and [Heroku]() for Deployment.
+I have used [Streamlit](https://docs.streamlit.io/) library for WEB UI and [Heroku](https://www.heroku.com/) for Deployment.
 
 For more information related to code. Check Out the **[Notebook]()** and **[GUI]()** file.
 
