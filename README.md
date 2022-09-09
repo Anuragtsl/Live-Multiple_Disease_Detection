@@ -16,7 +16,7 @@ It has three different disease data and three different models for each disease:
 
 I have used [Streamlit](https://docs.streamlit.io/) library for WEB UI and [Heroku](https://www.heroku.com/) for Deployment.
 
-For more information related to code. Check Out the **[Notebook]()** and **[GUI]()** file.
+For more information related to code. Check Out the **Noteboooks:- [Diabetes](https://github.com/Anuragtsl/Live-Multiple_Disease_Detection/blob/main/Diabetes%20Detection.ipynb), [Heart Disease](https://github.com/Anuragtsl/Live-Multiple_Disease_Detection/blob/main/Heart%20Disease%20Detection.ipynb), [Parkinson](https://github.com/Anuragtsl/Live-Multiple_Disease_Detection/blob/main/Parkinson's%20Disease%20Detection.ipynb)** and **[GUI](https://github.com/Anuragtsl/Live-Multiple_Disease_Detection/blob/main/Multiple_disease_detection.py)** file.
 
 # Preview
 
